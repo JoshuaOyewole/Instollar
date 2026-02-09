@@ -1,4 +1,4 @@
-# InstollConnect - Job Matching Platform (Assessment for FullStack Developer Role at Instollar)
+# InstollConnect - Job Matching Platform 
 
 A comprehensive full-stack job-matching platform built with Next.js 15, Node.js/Express, and MongoDB Atlas. This application connects talented professionals with job opportunities through advanced role-based authentication, middleware protection, and intelligent job-user matching with a modern glassmorphism UI design.
 
